@@ -1,3 +1,6 @@
+# Raw text
+*.txt
+
 # Prerequisites
 *.d
 
